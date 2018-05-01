@@ -1,0 +1,2 @@
+a=[input("Enter the sequence of numbers: ")]
+print(a)
